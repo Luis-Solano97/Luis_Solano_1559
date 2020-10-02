@@ -1,2 +1,4 @@
 # Luis_Solano_1559
-Programacion de sistemas_1559, Luis Solano
+## Asignatura: Programacion de sistemas.
+### Grupo: 1559.
+### Nombre: Luis Solano.
